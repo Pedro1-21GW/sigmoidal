@@ -1,7 +1,7 @@
 # sigmoidal
 My data-science projects
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pedro1-21GW/sigmoidal/main/Banner%20Github.png" >
+  <img src="https://raw.githubusercontent.com/Pedro1-21GW/sigmoidal/main/Banner%20verde.png" >
 </p>
 
 # Pedro Valadares
