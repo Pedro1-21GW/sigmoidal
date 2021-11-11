@@ -24,7 +24,7 @@ I am also a member of IEEE (world´s largest technical professional organization
 
 ## Projetos:
 Acesse pelos links abaixo:
-* **Analisando os Dados do Airbnb para Tokyo:** https://bit.ly/2ZlaNsV
+* **Analisando os Dados do Airbnb para Tokyo:** (em breve)
 
 ---
 
