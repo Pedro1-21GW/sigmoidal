@@ -6,7 +6,7 @@ My data-science projects
 </p>
 
 # Pedro Valadares
-<sub>*Electrical Engineering Student at Unicamp | Project Development* at 3E Unicamp</sub>
+<sub>*Electrical Engineering Student at Unicamp | Data Science Student at Sigmoidal* </sub>
 
 Excellent communication skills, team-oriented personality and results driven professional. Experienced in telecommunications, data science, signal processing, acoustics, automation and enthusiastic about 5G, 6G, IoT, machine learning and programming.
 
