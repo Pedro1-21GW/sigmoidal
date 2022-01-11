@@ -19,6 +19,7 @@ I am also a member of IEEE (world´s largest technical professional organization
 **Background in:** Python, Matlab, C++, Arduino IDE, Statistics.
 
 **Links:**
+* [Medium](https://medium.com/@peubene/analisando-os-dados-do-airbnb-tokyo-5a73e825be17)
 * [LinkedIn](https://www.linkedin.com/in/valadares-pedro/)
 * [Instagram](https://www.instagram.com/peuvala/?hl=pt-br)
 
