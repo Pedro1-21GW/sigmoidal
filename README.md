@@ -25,21 +25,21 @@ I am also a member of IEEE (world´s largest technical professional organization
 
 
 ## Data Science:
-Acesse os projetos completos (código comentado) pelos links abaixo:
+You can access my project notebooks by clicking on the links below:
 * **Analisando os Dados do Airbnb para Tokyo:** [Aqui](https://colab.research.google.com/drive/1nqKA3NH9E9FLOV1FMio_SgNnAroDHi2X?usp=sharing)
 * **The best chart you (probably) never heard about before.** [Aqui](https://colab.research.google.com/drive/10JI7ZE5EISXPpI2NUkYITsMIuB_KaxQG?usp=sharing)
 
 ## Telecommunications:
-Acesse os projetos completos (código comentado) pelos links abaixo:
+You can access my project notebooks by clicking on the links below:
 * **Em breve...** [Aqui]()
 
 
 ## Signal Processing:
-Acesse os projetos completos (código comentado) pelos links abaixo:
+You can access my project notebooks by clicking on the links below:
 * **Em breve...** [Aqui]()
 
 ## Python:
-Acesse os projetos completos (código comentado) pelos links abaixo:
+You can access my project notebooks by clicking on the links below:
 * **Em breve...** [Aqui]()
 ---
 
