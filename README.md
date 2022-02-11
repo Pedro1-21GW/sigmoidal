@@ -40,7 +40,7 @@ You can access my project notebooks by clicking on the links below:
 
 ## Python:
 You can access my project notebooks by clicking on the links below:
-* **Soon...** [Lnk]()
+* **Soon...** [Link]()
 ---
 
 
