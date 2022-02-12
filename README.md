@@ -26,7 +26,7 @@ I am also a member of IEEE (world´s largest technical professional organization
 
 ## Data Science:
 You can access my project notebooks by clicking on the links below:
-* **Analisando os Dados do Airbnb para Tokyo:** [Link](https://colab.research.google.com/drive/1nqKA3NH9E9FLOV1FMio_SgNnAroDHi2X?usp=sharing)
+* **Analysing Airbnb data from Tokyo (in portuguese)** [Link](https://colab.research.google.com/drive/1nqKA3NH9E9FLOV1FMio_SgNnAroDHi2X?usp=sharing)
 * **The best chart you (probably) never heard about before.** [Link](https://colab.research.google.com/drive/10JI7ZE5EISXPpI2NUkYITsMIuB_KaxQG?usp=sharing)
 
 ## Telecommunications:
