@@ -6,15 +6,9 @@ My portfolio
 </p>
 
 # Pedro Valadares
-<sub>*Electrical Engineering Student at Unicamp | Data Science Student at Sigmoidal* </sub>
+<sub>*Electrical Engineering | Data Science* </sub>
 
-Excellent communication skills, team-oriented personality and results driven professional. Experienced in telecommunications, data science, signal processing, acoustics, automation and enthusiastic about 5G, 6G, IoT, machine learning and programming.
-
-Recently, I received a scholarship from FAPESP to work as an undergraduate researcher, implementing an individualized equalization filter, for over-ear headphone reproduction, capable of improving 3D immersive audio experiences.
-
-As for other extracurricular experiences, I am part of 3E Unicamp-Electrical Engineering Junior Enterprise, where I could work on my hard skills and also soft skills, being part of a phenomenal team and developing solutions and prototypes for IoT and automation projects.
-
-I am also a member of IEEE (world´s largest technical professional organization), being part of Unicamp´s Student Branch, where I helped to open a BTS Chapter (Broadcast Technology Society) and performed volunteer work teaching basic programming logic to children.
+Solid knowledge in Data Science, Signal Processing, Machine Learning and Telecommunications.
 
 **Background in:** Python, Matlab, C++, Arduino IDE, Statistics.
 
